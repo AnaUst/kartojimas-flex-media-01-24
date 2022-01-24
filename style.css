@@ -3,6 +3,7 @@
     box-sizing: border-box;
 }
 
+/* Tevinis konteineris  */
 .container {
     height: 100vh;
     color: seashell;
